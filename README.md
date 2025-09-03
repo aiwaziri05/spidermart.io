@@ -1,12 +1,5 @@
-# React + Vite
+## 1. Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SpiderMart is a **scalable SaaS multi-vendor e-commerce platform** focused on promoting Nigerian culturally unique products (leather, textiles, shoes, clothes, and bags) to both local and global markets.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The current phase is a **frontend-only MVP** built with **React + Vite + Tailwind CSS**, structured for a future **Next.js migration**. All backend-related features (authentication, payments, order history, vendor management) will be mocked with placeholder data and API stubs.
